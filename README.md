@@ -110,7 +110,7 @@ The dataset contains **6,435 records** and **8 features**.
 * Monthly sales analysis reveals recurring seasonal trends.
 * Customer purchasing behavior varies throughout the year.
 
-### 📊 Economic Factors
+### 📊 Economic Factors   
 
 * CPI, Fuel Price, and Unemployment exhibit varying levels of influence on sales.
 * Store-specific and seasonal factors appear to have a stronger impact than macroeconomic variables.
