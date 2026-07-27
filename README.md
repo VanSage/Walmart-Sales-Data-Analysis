@@ -1,7 +1,7 @@
 # 📊 Walmart Sales Trend & Performance Analysis
 
 ## Overview                
-          
+                 
 This project presents an Exploratory Data Analysis (EDA) of Walmart sales data using Python. The objective is to uncover sales trends, seasonal patterns, holiday impacts, and the influence of economic indicators on weekly sales performance.
 
 By leveraging data visualization and statistical analysis techniques, this project transforms raw sales data into actionable business insights that can support strategic decision-making.
